@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+.Ct h1{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-right: 1110px;
+    text-align: left;
+}
+
+.Ct h5{
+    text-align: left;
+    padding-left: 350px;
+}
+
+@media (max-width: 768px){
+    .Ct h1{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.Ct h5{
+    text-align: left;
+    padding-left: 20px;
+}
+
+}
